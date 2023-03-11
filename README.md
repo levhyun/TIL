@@ -2,6 +2,7 @@
 TIL stands for Today I Learn.
 
 This repository simply records what you learned or studied that day.
+
 [+] A simple diary
 
 ```
